@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+newbie in git
